@@ -11,3 +11,5 @@
 3) virtual keyword
 4) OOP: https://www.interviewbit.com/oops-interview-questions/
 5) Python: https://www.interviewbit.com/python-interview-questions/
+
+OOP & Python Quiz Doc link: https://docs.google.com/document/d/1LxdcEtID4hQ5bqFIpzY_2pTZo2eyxehmKuAlJYaKPbw/edit?usp=sharing
